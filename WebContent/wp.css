@@ -1,0 +1,18 @@
+.box, .label, .value {
+    margin: 5px;
+    display: inline;
+}
+.form, .temp, .humidity, .barp {
+    display: block;
+    margin: 8px;
+}	
+.content, .header {
+    height: 21px;
+    font-weight: bold;
+}
+input, select {
+    margin: 5px
+}
+body {
+    background-color: aliceblue;
+}
